@@ -1,0 +1,5 @@
+benign
+malignant
+normal skin
+onycholysis
+tinea corporis
